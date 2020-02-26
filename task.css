@@ -1,0 +1,62 @@
+*{padding: 0px;
+margin: 0px;}
+#mainlist{
+    height: 50px;
+    padding: 10px;
+    padding-top: 2px;
+    text-align: center;
+}
+li{
+    display: inline;
+    padding: 20px;  
+    margin-left: auto; 
+    font-size: 20px;
+}
+#navigation{
+    background-color:#143638;
+    color: white; 
+    width: 850; 
+    text-align: center; 
+}
+input{border-radius: 12px;
+margin-left: 150px;
+}
+
+#sublist{
+    height: 20px;
+    padding-top: 0px;
+    
+    
+    
+}
+#subdiv{
+    
+    background-color:#dddddd;
+    height: 50px;
+    color: black;
+    padding: 15px; 
+}
+/* button{
+    border: black; border-style: solid;
+    margin-left: 150px;
+    margin-right: 2px; */
+    
+}
+
+#div3{
+    
+    text-align: 100px;
+    margin-left: 100px;
+    float: left;
+    
+}
+#channel{
+    border: black;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 14px;
+    margin-left: 440px;
+    color: white;
+    background-color:#143638;
+    
+}

@@ -1,0 +1,19 @@
+p{
+    background-color: lightsteelblue;
+    min-width: 75;
+    height: 100;
+    border: rgb(134, 87, 87);
+    border-style: dotted;
+    border-width: 5px;
+    border-radius: 10px;
+    border-spacing: 5px;
+    padding: 5px;
+    margin-left: 3px;
+    margin-right: 3px;
+    
+}
+p{
+    font-size: large;
+    font-family: sans-serif;
+    font-weight: bold;
+}
